@@ -1,2 +1,6 @@
 # TweetConnpassEventBot
-Twitterの自動投稿アプリ
+Connpassの最新イベントをTwitterで自動投稿するアプリ。
+
+# 参考
+Connpass
+https://connpass.com/dashboard/
