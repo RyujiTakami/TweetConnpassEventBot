@@ -1,6 +1,6 @@
 //スクリプトのプロバティを呼び出す
 var API_KEY = PropertiesService.getScriptProperties().getProperties().API_KEY;
-var API_SECRET = PropertiesService.getScriptProperties().getProperties().API_SECRET_KEY;
+var API_SECRET = PropertiesService.getScriptProperties().getProperties().API_SECRET;
 
 /* サービスの設定 */
 function getService() {
